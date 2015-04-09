@@ -1,1 +1,0 @@
-![Scale PHP](http://www.bradwhitfield.com/img/scale.png)
